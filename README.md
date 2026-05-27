@@ -1,4 +1,4 @@
-# ECLAUNCHER
+# **ECLAUNCHER**
 **ECLauncher** is a next-generation, high-performance launcher built for players who demand speed, flawless stability, and a premium visual experience. Designed with a sleek, modern glassmorphism aesthetic and vibrant neon accents, ECLauncher transforms your game startup from a boring routine into an absolute vibe.
 **⚡ ULTRA-FAST PERFORMANCE**
  * **Instant Boot:** Zero bloatware means lightning-fast load times and optimized RAM allocation.
