@@ -1,5 +1,5 @@
-#ECLAUNCHER
-**ECLauncher** is a next-generation, high-performance launcher built for players who demand speed, flawless stability, and a premium visual experience. Designed with a sleek, modern glassmorphism aesthetic and vibrant neon accents, ECLauncher transforms your game startup from a boring routine into an absolute vibe.
+# ECLAUNCHER
+```**ECLauncher** is a next-generation, high-performance launcher built for players who demand speed, flawless stability, and a premium visual experience. Designed with a sleek, modern glassmorphism aesthetic and vibrant neon accents, ECLauncher transforms your game startup from a boring routine into an absolute vibe.
 **⚡ ULTRA-FAST PERFORMANCE**
  * **Instant Boot:** Zero bloatware means lightning-fast load times and optimized RAM allocation.
  * **Seamless Instance Management:** Effortlessly create, clone, and launch multiple game profiles and modpacks with a single click.
@@ -11,7 +11,7 @@
 **🔒 ELITE SECURITY & STABILITY**
  * **Secure Authentication:** Ironclad session management keeps your account details encrypted and safe.
  * **Crash-Resilient Architecture:** Advanced error logging isolates issues instantly, preventing the entire launcher from freezing if a mod fails.
- * **Offline Mode:** Play your favorite single-player worlds anytime, anywhere, without needing an active internet connection.
+ * **Offline Mode:** Play your favorite single-player worlds anytime, anywhere, without needing an active internet connection.```
 > ECLauncher isn't just a game tool—it's a complete upgrade to your entire gaming environment. Clean, fast, and visually striking.
 >
 > 
