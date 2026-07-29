@@ -135,8 +135,7 @@ npm run tauri build
 
 ## 📄 License
 
-This project is **proprietary**. See the [LICENSE](./LICENSE) file for details.  
-You **must obtain permission** from the owner before using, copying, or distributing this source code.
+This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for details.
 
 ---
 
